@@ -1,5 +1,5 @@
 data:
   env: config-eureka-dev
   user:
-    username: prod-user
+    username: client-user
     password: 1291029102
